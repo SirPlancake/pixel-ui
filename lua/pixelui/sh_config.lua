@@ -25,6 +25,11 @@
 PIXEL.OverrideDermaMenus = 0
 
 --[[
+    Should PIXEL UI use a proxy to download images?
+]]
+PIXEL.UseProxy = false
+
+--[[
     The Image URL of the progress image you want to appear when image content is loading.
 ]]
 PIXEL.ProgressImageURL = "https://pixel-cdn.lythium.dev/i/47qh6kjjh"
